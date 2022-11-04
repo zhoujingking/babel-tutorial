@@ -1,2 +1,2 @@
-# babel-tutorial
-Babel tutorial
+# babel cli
+npx babel src --out-dir dist

@@ -1,0 +1,26 @@
+{
+  "name": "babel-tutorial",
+  "version": "1.0.0",
+  "description": "Babel tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoujingking/babel-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoujingking/babel-tutorial/issues"
+  },
+  "homepage": "https://github.com/zhoujingking/babel-tutorial#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "@babel/plugin-transform-arrow-functions": "^7.18.6",
+    "@babel/plugin-transform-destructuring": "^7.20.0",
+    "@babel/plugin-transform-spread": "^7.19.0"
+  }
+}
