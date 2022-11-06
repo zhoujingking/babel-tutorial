@@ -1,7 +1,3 @@
 {
-  "plugins": [
-    "@babel/plugin-transform-arrow-functions",
-    "@babel/plugin-transform-spread",
-    "@babel/plugin-transform-destructuring"
-  ]
+  "presets": ["./presets/my-custom-preset.js"]
 }
