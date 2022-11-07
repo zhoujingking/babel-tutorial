@@ -1,3 +1,12 @@
 {
-  "presets": ["./presets/my-custom-preset.js"]
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "useBuiltIns": "usage",
+        "corejs": "3.26.0"
+      }
+    ]
+  ],
+  "sourceMaps": true
 }

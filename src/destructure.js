@@ -4,3 +4,8 @@ const user = {
 };
 
 const { name, job } = user;
+
+export {
+  name,
+  job
+}

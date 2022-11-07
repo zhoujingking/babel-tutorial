@@ -1,4 +1,4 @@
-const display = (msg, ...rest) => {
+export const display = (msg, ...rest) => {
   console.log(msg, rest);
 }
 
